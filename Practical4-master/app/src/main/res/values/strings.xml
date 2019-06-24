@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="action_favorite">Favourite</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">activity2</string>
+    <string name="action_settings_message">You Pressed Setting!</string>
+    <string name="action_favorite_message">You Pressed Favourite</string>
+    <string name="action_search">Search</string>
+    <string name="share" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_fire_missiles" />
+    <string name="fire" />
+    <string name="cancel" />
+    <string name="signin">Sign In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+</resources>
